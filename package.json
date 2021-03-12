@@ -1,0 +1,10 @@
+{
+  "name": "threejs-noise-scaling",
+  "main": "index.js",
+  "scripts": {
+    "start": "http-server ."
+  },
+  "dependencies": {
+    "http-server": "^0.12.3"
+  }
+}
